@@ -1,4 +1,4 @@
-<h1 align="left">HellooooOOOOOoo</h1>
+<h1 align="left">Welcome.</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">hi im jean and I love python;<br>i love airplanes and computers;<br>i speak english and tagalog;<br>i draw;<br>i play the guitar;<br><br>return 0;</p>
+<p align="center">hi im jean and I love python;<br>i love aerospace, cloud, and intelligence<br>i speak english and tagalog;<br>i love art and music<br>i love food<br><br>return 0;</p>
 
 ###
 
@@ -17,12 +17,12 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -51,12 +51,12 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=2&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://discord.com/users/363757211433959425" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -67,30 +67,12 @@
 
 ###
 
-<h4 align="left">pacman=</h4>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanBean-sec/JeanBean-sec/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanBean-sec/JeanBean-sec/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JeanBean-sec/JeanBean-sec/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h3 align="left">stats=</h3>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=8&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
